@@ -1,4 +1,9 @@
 #!/usr/bin/env python
+
+# Rodolfo García Peñas (kix) <kix@kix.es>
+# Script for Raspberry Pi case with 6 buttons
+# More info at http://kix.es
+
 import RPi.GPIO as GPIO
 import time
 import subprocess
