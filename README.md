@@ -8,5 +8,5 @@ Scripts to manage the Raspberry Pi (GPIO buttons)
 
 ## More info
 
-http://kix.es/post/2018-07-28-raspberrypi-ir-shield-buttons/
+http://kix.es/post/2018-07-28-raspberrypi-ir-shield-buttons/  
 http://kix.es/post/2018-08-11-raspberrypi-caja-pantalla-botones/
